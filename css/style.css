@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html body{
+    width: 100%;
+}
+
+/* Header Strat */
+.navebar{
+
+}
+/* Header End */
+
+.continer{
+    max-width: 100%;
+}
+.continer .supermarket{
+    background-image: url(..//images/slide-1.jpg);
+    width: 1320px;
+    height: 650px;
+    border-radius: 5px;
+}
+.continer .mainproduct1 .mainproduct2 .btn1{
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+.continer .mainproduct2{
+    background-image: url(..//images/product-single-img-2.jpg);
+}
+.continer .mainproduct1{
+    background-image: url(..//images/product-single-img-1.jpg);
+}
+.continer .mainproduct1 .mainproduct2 >div h1{
+    color: black;
+}
+.continer .mainproduct1 .mainproduct2 >div p{
+    color: gray;
+}
+
+.continer .texttitle{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.continer .texttitle p{
+    color: gray;
+}
+.continer .texttitle h6{
+    color: black;
+}
+.continer .main1 .card .img1 .text{
+
+}
+
+.main{
+    width: 100%;
+}
+.main .footer2 .textarea p{
+    font-size: 3px;
+    color: black;
+}
+.continer .card2{
+    background-image: url(..//images/banner-deal.jpg);
+}
+.continer .card2 .textarea h3{
+    color: black;
+}
